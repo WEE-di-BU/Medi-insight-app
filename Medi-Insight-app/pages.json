@@ -1,0 +1,137 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "Medi-Insight"
+			}
+		},
+		{
+			"path" : "pages/doctor/doctor",
+			"style" : 
+			{
+				"navigationBarTitleText" : "选择医生"
+			}
+		},
+		{
+			"path" : "pages/person/person",
+			"style" : 
+			{
+				"navigationBarTitleText" : "个人信息"
+			}
+		},
+		{
+			"path" : "pages/registration/registration",
+			"style" : 
+			{
+				"navigationBarTitleText" : "预约挂号"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/personalMsg",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改个人信息"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/v-name",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改昵称"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/sex",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改性别"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/age",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改年龄"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/birth",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改生日"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/merrage",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改婚姻状况"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/country",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改国籍"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/nation",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改民族"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/phone",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改电话"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/email",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改邮箱"
+			}
+		},
+		{
+			"path" : "pages/personalMsg/disease",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改疾病史"
+			}
+		},
+		{
+			"path" : "pages/log/log",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/ai/ai",
+			"style" : 
+			{
+				"navigationBarTitleText" : "ai问答"
+			}
+		}
+		// {
+		// 	"path" : "static/ai-img/ai-img",
+		// 	"style" : 
+		// 	{
+		// 		"navigationBarTitleText" : ""
+		// 	}
+		// }
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#ebeafc "
+	},
+	"uniIdRouter": {}
+}
